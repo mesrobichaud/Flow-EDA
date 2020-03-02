@@ -1,0 +1,351 @@
+File Name	Acquisition Date	Gate	Gated Events	Total Events	X Parameter	Y Parameter	Label	Events	% Gated	X Geo Mean	
+PSC-PLT-MR-2.001	14-Feb-19	PLT Shape	10000	20422	FL1-H (Log)	.	All	10000	.	251.67	
+PSC-PLT-MR-2.001	14-Feb-19	PLT Shape	10000	20422	FL2-H (Log)	.	All	10000	.	30.48	
+PSC-PLT-MR-2.001	14-Feb-19	PLT	10000	20422	FL2-H (Log)	.	All	.	100.00	30.48	
+PSC-PLT-MR-2.001	14-Feb-19	PLT	10000	20422	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	.	.	.	UL	.	4.39	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	.	.	.	UR	.	95.58	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	.	.	.	LL	.	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	.	.	.	LR	.	0.02	.	
+PSC-PLT-MR-2.001	14-Feb-19	PLT	10000	20422	FL1-H (Log)	.	All	.	100.00	251.67	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1071	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	PLT	.	54.85	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	54.85	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	17795	20422	FSC-H (Log)	SSC-H (Log)	LargeCell	.	36.91	.	
+PSC-PLT-MR-2.002	14-Feb-19	PLT Shape	5053	21624	FL1-H (Log)	.	All	5053	.	317.87	
+PSC-PLT-MR-2.002	14-Feb-19	PLT Shape	5053	21624	FL2-H (Log)	.	All	5053	.	210.05	
+PSC-PLT-MR-2.002	14-Feb-19	PLT	5053	21624	FL2-H (Log)	.	All	.	100.00	210.05	
+PSC-PLT-MR-2.002	14-Feb-19	PLT	5053	21624	FL2-H (Log)	.	M1	.	2.65	1766.03	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	.	.	.	UL	.	9.69	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	.	.	.	UR	.	89.96	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	.	.	.	LL	.	0.16	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	.	.	.	LR	.	0.19	.	
+PSC-PLT-MR-2.002	14-Feb-19	PLT	5053	21624	FL1-H (Log)	.	All	.	100.00	317.87	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	.	BEADS	2930	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	PLT	.	21.62	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	21.62	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.002	14-Feb-19	Not Beads	8955	21624	FSC-H (Log)	SSC-H (Log)	LargeCell	.	52.65	.	
+PSC-PLT-MR-2.003	14-Feb-19	PLT Shape	5127	9686	FL1-H (Log)	.	All	5127	.	236.12	
+PSC-PLT-MR-2.003	14-Feb-19	PLT Shape	5127	9686	FL2-H (Log)	.	All	5127	.	26.15	
+PSC-PLT-MR-2.003	14-Feb-19	PLT	5127	9686	FL2-H (Log)	.	All	.	100.00	26.15	
+PSC-PLT-MR-2.003	14-Feb-19	PLT	5127	9686	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	.	.	.	UL	.	2.76	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	.	.	.	UR	.	97.23	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	.	.	.	LL	.	0.01	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	PLT	5127	9686	FL1-H (Log)	.	All	.	100.00	236.12	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	.	BEADS	584	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	PLT	.	59.40	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	59.40	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.003	14-Feb-19	Not Beads	8545	9686	FSC-H (Log)	SSC-H (Log)	LargeCell	.	35.31	.	
+PSC-PLT-MR-2.004	14-Feb-19	PLT Shape	4800	17000	FL1-H (Log)	.	All	4800	.	390.84	
+PSC-PLT-MR-2.004	14-Feb-19	PLT Shape	4800	17000	FL2-H (Log)	.	All	4800	.	296.65	
+PSC-PLT-MR-2.004	14-Feb-19	PLT	4800	17000	FL2-H (Log)	.	All	.	100.00	296.65	
+PSC-PLT-MR-2.004	14-Feb-19	PLT	4800	17000	FL2-H (Log)	.	M1	.	5.90	1855.12	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	.	.	.	UL	.	12.62	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	.	.	.	UR	.	87.34	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	.	.	.	LL	.	0.04	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.004	14-Feb-19	PLT	4800	17000	FL1-H (Log)	.	All	.	100.00	390.84	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	.	BEADS	3790	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	PLT	.	27.29	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	27.29	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.004	14-Feb-19	Not Beads	4548	17000	FSC-H (Log)	SSC-H (Log)	LargeCell	.	48.86	.	
+PSC-PLT-MR-2.005	14-Feb-19	PLT Shape	5163	14538	FL1-H (Log)	.	All	5163	.	205.40	
+PSC-PLT-MR-2.005	14-Feb-19	PLT Shape	5163	14538	FL2-H (Log)	.	All	5163	.	42.52	
+PSC-PLT-MR-2.005	14-Feb-19	PLT	5163	14538	FL2-H (Log)	.	All	.	100.00	42.52	
+PSC-PLT-MR-2.005	14-Feb-19	PLT	5163	14538	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	.	.	.	UL	.	11.21	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	.	.	.	UR	.	88.78	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	.	.	.	LL	.	0.01	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	PLT	5163	14538	FL1-H (Log)	.	All	.	100.00	205.40	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	.	BEADS	3142	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	PLT	.	51.11	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	51.11	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.005	14-Feb-19	Not Beads	9138	14538	FSC-H (Log)	SSC-H (Log)	LargeCell	.	28.24	.	
+PSC-PLT-MR-2.006	14-Feb-19	PLT Shape	5293	13755	FL1-H (Log)	.	All	5293	.	369.32	
+PSC-PLT-MR-2.006	14-Feb-19	PLT Shape	5293	13755	FL2-H (Log)	.	All	5293	.	294.46	
+PSC-PLT-MR-2.006	14-Feb-19	PLT	5293	13755	FL2-H (Log)	.	All	.	100.00	294.46	
+PSC-PLT-MR-2.006	14-Feb-19	PLT	5293	13755	FL2-H (Log)	.	M1	.	6.54	1821.18	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	.	.	.	UL	.	12.68	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	.	.	.	UR	.	87.23	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	.	.	.	LL	.	0.10	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.006	14-Feb-19	PLT	5293	13755	FL1-H (Log)	.	All	.	100.00	369.32	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	.	BEADS	2485	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	PLT	.	35.63	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	35.63	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.006	14-Feb-19	Not Beads	4196	13755	FSC-H (Log)	SSC-H (Log)	LargeCell	.	38.73	.	
+PSC-PLT-MR-2.007	14-Feb-19	PLT Shape	5400	10135	FL1-H (Log)	.	All	5400	.	232.29	
+PSC-PLT-MR-2.007	14-Feb-19	PLT Shape	5400	10135	FL2-H (Log)	.	All	5400	.	33.21	
+PSC-PLT-MR-2.007	14-Feb-19	PLT	5400	10135	FL2-H (Log)	.	All	.	100.00	33.21	
+PSC-PLT-MR-2.007	14-Feb-19	PLT	5400	10135	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	.	.	.	UL	.	1.68	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	.	.	.	UR	.	98.32	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	.	.	.	LL	.	0.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	PLT	5400	10135	FL1-H (Log)	.	All	.	100.00	232.29	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	.	BEADS	711	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	PLT	.	61.35	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	61.35	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.007	14-Feb-19	Not Beads	8433	10135	FSC-H (Log)	SSC-H (Log)	LargeCell	.	34.84	.	
+PSC-PLT-MR-2.008	14-Feb-19	PLT Shape	5231	14448	FL1-H (Log)	.	All	5231	.	376.58	
+PSC-PLT-MR-2.008	14-Feb-19	PLT Shape	5231	14448	FL2-H (Log)	.	All	5231	.	295.35	
+PSC-PLT-MR-2.008	14-Feb-19	PLT	5231	14448	FL2-H (Log)	.	All	.	100.00	295.35	
+PSC-PLT-MR-2.008	14-Feb-19	PLT	5231	14448	FL2-H (Log)	.	M1	.	5.43	1803.46	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	.	.	.	UL	.	8.98	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	.	.	.	UR	.	90.99	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	.	.	.	LL	.	0.03	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.008	14-Feb-19	PLT	5231	14448	FL1-H (Log)	.	All	.	100.00	376.58	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	.	BEADS	2882	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	PLT	.	37.83	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	37.83	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.008	14-Feb-19	Not Beads	3862	14448	FSC-H (Log)	SSC-H (Log)	LargeCell	.	40.68	.	
+PSC-PLT-MR-2.009	14-Feb-19	PLT Shape	6166	11465	FL1-H (Log)	.	All	6166	.	202.09	
+PSC-PLT-MR-2.009	14-Feb-19	PLT Shape	6166	11465	FL2-H (Log)	.	All	6166	.	25.29	
+PSC-PLT-MR-2.009	14-Feb-19	PLT	6166	11465	FL2-H (Log)	.	All	.	100.00	25.29	
+PSC-PLT-MR-2.009	14-Feb-19	PLT	6166	11465	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	.	.	.	UL	.	1.86	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	.	.	.	UR	.	98.14	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	.	.	.	LL	.	0.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	PLT	6166	11465	FL1-H (Log)	.	All	.	100.00	202.09	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	.	BEADS	640	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	PLT	.	59.72	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	59.72	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.009	14-Feb-19	Not Beads	10207	11465	FSC-H (Log)	SSC-H (Log)	LargeCell	.	35.89	.	
+PSC-PLT-MR-2.010	14-Feb-19	PLT Shape	5304	16020	FL1-H (Log)	.	All	5304	.	395.68	
+PSC-PLT-MR-2.010	14-Feb-19	PLT Shape	5304	16020	FL2-H (Log)	.	All	5304	.	313.68	
+PSC-PLT-MR-2.010	14-Feb-19	PLT	5304	16020	FL2-H (Log)	.	All	.	100.00	313.68	
+PSC-PLT-MR-2.010	14-Feb-19	PLT	5304	16020	FL2-H (Log)	.	M1	.	5.49	1809.61	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	.	.	.	UL	.	9.50	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	.	.	.	UR	.	90.45	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	.	.	.	LL	.	0.05	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	.	.	.	LR	.	0.00	.	
+PSC-PLT-MR-2.010	14-Feb-19	PLT	5304	16020	FL1-H (Log)	.	All	.	100.00	395.68	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	.	BEADS	3050	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	PLT	.	32.17	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	32.17	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.010	14-Feb-19	Not Beads	4274	16020	FSC-H (Log)	SSC-H (Log)	LargeCell	.	46.47	.	
+PSC-PLT-MR-2.011	14-Feb-19	PLT Shape	2059	6537	FL1-H (Log)	.	All	2059	.	180.32	
+PSC-PLT-MR-2.011	14-Feb-19	PLT Shape	2059	6537	FL2-H (Log)	.	All	2059	.	32.90	
+PSC-PLT-MR-2.011	14-Feb-19	PLT	2059	6537	FL2-H (Log)	.	All	.	100.00	32.90	
+PSC-PLT-MR-2.011	14-Feb-19	PLT	2059	6537	FL2-H (Log)	.	M1	.	0.05	1669.77	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	.	.	.	UL	.	6.75	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	.	.	.	UR	.	93.00	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	.	.	.	LL	.	0.05	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	.	.	.	LR	.	0.20	.	
+PSC-PLT-MR-2.011	14-Feb-19	PLT	2059	6537	FL1-H (Log)	.	All	.	100.00	180.32	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	.	BEADS	1284	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	PLT	.	47.55	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	47.55	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.011	14-Feb-19	Not Beads	4101	6537	FSC-H (Log)	SSC-H (Log)	LargeCell	.	35.63	.	
+PSC-PLT-MR-2.012	14-Feb-19	PLT Shape	2586	11240	FL1-H (Log)	.	All	2586	.	360.28	
+PSC-PLT-MR-2.012	14-Feb-19	PLT Shape	2586	11240	FL2-H (Log)	.	All	2586	.	276.10	
+PSC-PLT-MR-2.012	14-Feb-19	PLT	2586	11240	FL2-H (Log)	.	All	.	100.00	276.10	
+PSC-PLT-MR-2.012	14-Feb-19	PLT	2586	11240	FL2-H (Log)	.	M1	.	5.34	1780.25	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	.	.	.	UL	.	10.34	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	.	.	.	UR	.	89.50	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	.	.	.	LL	.	0.00	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	.	.	.	LR	.	0.17	.	
+PSC-PLT-MR-2.012	14-Feb-19	PLT	2586	11240	FL1-H (Log)	.	All	.	100.00	360.28	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	.	BEADS	2378	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	PLT	.	22.53	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	22.53	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.012	14-Feb-19	Not Beads	3599	11240	FSC-H (Log)	SSC-H (Log)	LargeCell	.	52.51	.	
+PSC-PLT-MR-2.013	14-Feb-19	PLT Shape	5034	11777	FL1-H (Log)	.	All	5034	.	171.40	
+PSC-PLT-MR-2.013	14-Feb-19	PLT Shape	5034	11777	FL2-H (Log)	.	All	5034	.	27.18	
+PSC-PLT-MR-2.013	14-Feb-19	PLT	5034	11777	FL2-H (Log)	.	All	.	100.00	27.18	
+PSC-PLT-MR-2.013	14-Feb-19	PLT	5034	11777	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	.	.	.	UL	.	4.89	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	.	.	.	UR	.	95.09	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	.	.	.	LL	.	0.01	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	.	.	.	LR	.	0.01	.	
+PSC-PLT-MR-2.013	14-Feb-19	PLT	5034	11777	FL1-H (Log)	.	All	.	100.00	171.40	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	.	BEADS	1068	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	PLT	.	51.31	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	51.31	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.013	14-Feb-19	Not Beads	9640	11777	FSC-H (Log)	SSC-H (Log)	LargeCell	.	38.31	.	
+PSC-PLT-MR-2.014	14-Feb-19	PLT Shape	1590	8337	FL1-H (Log)	.	All	1590	.	145.31	
+PSC-PLT-MR-2.014	14-Feb-19	PLT Shape	1590	8337	FL2-H (Log)	.	All	1590	.	64.06	
+PSC-PLT-MR-2.014	14-Feb-19	PLT	1590	8337	FL2-H (Log)	.	All	.	100.00	64.06	
+PSC-PLT-MR-2.014	14-Feb-19	PLT	1590	8337	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	.	.	.	UL	.	11.88	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	.	.	.	UR	.	88.02	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	.	.	.	LL	.	0.08	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	.	.	.	LR	.	0.02	.	
+PSC-PLT-MR-2.014	14-Feb-19	PLT	1590	8337	FL1-H (Log)	.	All	.	100.00	145.31	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	.	BEADS	1294	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	PLT EXPR	.	100.00	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	PLT	.	24.34	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	PLT Shape	.	24.34	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	BEADS	.	0.00	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	BEADS Shape	.	0.00	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	Not Beads	.	100.00	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	G7	.	0.00	.	
+PSC-PLT-MR-2.014	14-Feb-19	Not Beads	5116	8337	FSC-H (Log)	SSC-H (Log)	LargeCell	.	49.73	.	

@@ -1,0 +1,171 @@
+File Name	Acquisition Date	Gate	Gated Events	Total Events	X Parameter	Y Parameter	Label	Events	% Gated	X Geo Mean	
+PSC-PLT-5-1.001	07-Feb-19	PLT Shape	4572	10706	FL1-H (Log)	.	All	4572	.	213.52	
+PSC-PLT-5-1.001	07-Feb-19	PLT Shape	4572	10706	FL2-H (Log)	.	All	4572	.	33.66	
+PSC-PLT-5-1.001	07-Feb-19	PLT	4562	10706	FL2-H (Log)	.	All	.	100.00	33.71	
+PSC-PLT-5-1.001	07-Feb-19	PLT	4562	10706	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-5-1.001	07-Feb-19	No Gate	10706	.	.	.	UL	.	3.45	.	
+PSC-PLT-5-1.001	07-Feb-19	No Gate	10706	.	.	.	UR	.	96.55	.	
+PSC-PLT-5-1.001	07-Feb-19	No Gate	10706	.	.	.	LL	.	0.00	.	
+PSC-PLT-5-1.001	07-Feb-19	No Gate	10706	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.001	07-Feb-19	PLT	4562	10706	FL1-H (Log)	.	All	.	100.00	214.35	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.001	.	BEADS	1685	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	07-Feb-19	PLT Shape	4700	13322	FL1-H (Log)	.	All	4700	.	316.80	
+PSC-PLT-5-1.002	07-Feb-19	PLT Shape	4700	13322	FL2-H (Log)	.	All	4700	.	168.64	
+PSC-PLT-5-1.002	07-Feb-19	PLT	4678	13322	FL2-H (Log)	.	All	.	100.00	170.51	
+PSC-PLT-5-1.002	07-Feb-19	PLT	4678	13322	FL2-H (Log)	.	M1	.	0.17	1776.28	
+PSC-PLT-5-1.002	07-Feb-19	No Gate	13322	.	.	.	UL	.	3.18	.	
+PSC-PLT-5-1.002	07-Feb-19	No Gate	13322	.	.	.	UR	.	96.80	.	
+PSC-PLT-5-1.002	07-Feb-19	No Gate	13322	.	.	.	LL	.	0.02	.	
+PSC-PLT-5-1.002	07-Feb-19	No Gate	13322	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.002	07-Feb-19	PLT	4678	13322	FL1-H (Log)	.	All	.	100.00	319.99	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.002	.	BEADS	2863	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	07-Feb-19	PLT Shape	9720	14530	FL1-H (Log)	.	All	9720	.	205.25	
+PSC-PLT-5-1.003	07-Feb-19	PLT Shape	9720	14530	FL2-H (Log)	.	All	9720	.	27.83	
+PSC-PLT-5-1.003	07-Feb-19	PLT	9709	14530	FL2-H (Log)	.	All	.	100.00	27.84	
+PSC-PLT-5-1.003	07-Feb-19	PLT	9709	14530	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-5-1.003	07-Feb-19	No Gate	14530	.	.	.	UL	.	1.48	.	
+PSC-PLT-5-1.003	07-Feb-19	No Gate	14530	.	.	.	UR	.	98.52	.	
+PSC-PLT-5-1.003	07-Feb-19	No Gate	14530	.	.	.	LL	.	0.00	.	
+PSC-PLT-5-1.003	07-Feb-19	No Gate	14530	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.003	07-Feb-19	PLT	9709	14530	FL1-H (Log)	.	All	.	100.00	205.65	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.003	.	BEADS	893	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	07-Feb-19	PLT Shape	2428	10925	FL1-H (Log)	.	All	2428	.	299.38	
+PSC-PLT-5-1.004	07-Feb-19	PLT Shape	2428	10925	FL2-H (Log)	.	All	2428	.	199.60	
+PSC-PLT-5-1.004	07-Feb-19	PLT	2417	10925	FL2-H (Log)	.	All	.	100.00	201.61	
+PSC-PLT-5-1.004	07-Feb-19	PLT	2417	10925	FL2-H (Log)	.	M1	.	0.66	1654.82	
+PSC-PLT-5-1.004	07-Feb-19	No Gate	10925	.	.	.	UL	.	4.73	.	
+PSC-PLT-5-1.004	07-Feb-19	No Gate	10925	.	.	.	UR	.	95.25	.	
+PSC-PLT-5-1.004	07-Feb-19	No Gate	10925	.	.	.	LL	.	0.02	.	
+PSC-PLT-5-1.004	07-Feb-19	No Gate	10925	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.004	07-Feb-19	PLT	2417	10925	FL1-H (Log)	.	All	.	100.00	302.22	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.004	.	BEADS	4403	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	07-Feb-19	PLT Shape	9818	15676	FL1-H (Log)	.	All	9818	.	204.35	
+PSC-PLT-5-1.005	07-Feb-19	PLT Shape	9818	15676	FL2-H (Log)	.	All	9818	.	28.08	
+PSC-PLT-5-1.005	07-Feb-19	PLT	9797	15676	FL2-H (Log)	.	All	.	100.00	28.13	
+PSC-PLT-5-1.005	07-Feb-19	PLT	9797	15676	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-5-1.005	07-Feb-19	No Gate	15676	.	.	.	UL	.	2.14	.	
+PSC-PLT-5-1.005	07-Feb-19	No Gate	15676	.	.	.	UR	.	97.86	.	
+PSC-PLT-5-1.005	07-Feb-19	No Gate	15676	.	.	.	LL	.	0.00	.	
+PSC-PLT-5-1.005	07-Feb-19	No Gate	15676	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.005	07-Feb-19	PLT	9797	15676	FL1-H (Log)	.	All	.	100.00	205.09	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.005	.	BEADS	1084	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	07-Feb-19	PLT Shape	5148	15893	FL1-H (Log)	.	All	5148	.	268.02	
+PSC-PLT-5-1.006	07-Feb-19	PLT Shape	5148	15893	FL2-H (Log)	.	All	5148	.	179.72	
+PSC-PLT-5-1.006	07-Feb-19	PLT	5098	15893	FL2-H (Log)	.	All	.	100.00	184.33	
+PSC-PLT-5-1.006	07-Feb-19	PLT	5098	15893	FL2-H (Log)	.	M1	.	1.06	1689.35	
+PSC-PLT-5-1.006	07-Feb-19	No Gate	15893	.	.	.	UL	.	7.17	.	
+PSC-PLT-5-1.006	07-Feb-19	No Gate	15893	.	.	.	UR	.	92.83	.	
+PSC-PLT-5-1.006	07-Feb-19	No Gate	15893	.	.	.	LL	.	0.01	.	
+PSC-PLT-5-1.006	07-Feb-19	No Gate	15893	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.006	07-Feb-19	PLT	5098	15893	FL1-H (Log)	.	All	.	100.00	273.25	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.006	.	BEADS	4397	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	07-Feb-19	PLT Shape	5343	17178	FL1-H (Log)	.	All	5343	.	158.19	
+PSC-PLT-5-1.007	07-Feb-19	PLT Shape	5343	17178	FL2-H (Log)	.	All	5343	.	31.92	
+PSC-PLT-5-1.007	07-Feb-19	PLT	5322	17178	FL2-H (Log)	.	All	.	100.00	32.02	
+PSC-PLT-5-1.007	07-Feb-19	PLT	5322	17178	FL2-H (Log)	.	M1	.	0.02	3619.04	
+PSC-PLT-5-1.007	07-Feb-19	No Gate	17178	.	.	.	UL	.	14.70	.	
+PSC-PLT-5-1.007	07-Feb-19	No Gate	17178	.	.	.	UR	.	85.28	.	
+PSC-PLT-5-1.007	07-Feb-19	No Gate	17178	.	.	.	LL	.	0.02	.	
+PSC-PLT-5-1.007	07-Feb-19	No Gate	17178	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.007	07-Feb-19	PLT	5322	17178	FL1-H (Log)	.	All	.	100.00	159.08	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.007	.	BEADS	2202	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	07-Feb-19	PLT Shape	5726	16190	FL1-H (Log)	.	All	5726	.	112.72	
+PSC-PLT-5-1.008	07-Feb-19	PLT Shape	5726	16190	FL2-H (Log)	.	All	5726	.	25.54	
+PSC-PLT-5-1.008	07-Feb-19	PLT	5633	16190	FL2-H (Log)	.	All	.	100.00	25.75	
+PSC-PLT-5-1.008	07-Feb-19	PLT	5633	16190	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-5-1.008	07-Feb-19	No Gate	16190	.	.	.	UL	.	16.15	.	
+PSC-PLT-5-1.008	07-Feb-19	No Gate	16190	.	.	.	UR	.	83.85	.	
+PSC-PLT-5-1.008	07-Feb-19	No Gate	16190	.	.	.	LL	.	0.00	.	
+PSC-PLT-5-1.008	07-Feb-19	No Gate	16190	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.008	07-Feb-19	PLT	5633	16190	FL1-H (Log)	.	All	.	100.00	114.79	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.008	.	BEADS	2356	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	07-Feb-19	PLT Shape	9883	23048	FL1-H (Log)	.	All	9883	.	189.22	
+PSC-PLT-5-1.009	07-Feb-19	PLT Shape	9883	23048	FL2-H (Log)	.	All	9883	.	31.47	
+PSC-PLT-5-1.009	07-Feb-19	PLT	9841	23048	FL2-H (Log)	.	All	.	100.00	31.51	
+PSC-PLT-5-1.009	07-Feb-19	PLT	9841	23048	FL2-H (Log)	.	M1	.	0.00	.	
+PSC-PLT-5-1.009	07-Feb-19	No Gate	23048	.	.	.	UL	.	4.48	.	
+PSC-PLT-5-1.009	07-Feb-19	No Gate	23048	.	.	.	UR	.	95.49	.	
+PSC-PLT-5-1.009	07-Feb-19	No Gate	23048	.	.	.	LL	.	0.01	.	
+PSC-PLT-5-1.009	07-Feb-19	No Gate	23048	.	.	.	LR	.	0.02	.	
+PSC-PLT-5-1.009	07-Feb-19	PLT	9841	23048	FL1-H (Log)	.	All	.	100.00	190.52	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.009	.	BEADS	3964	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	07-Feb-19	PLT Shape	4246	13130	FL1-H (Log)	.	All	4246	.	162.35	
+PSC-PLT-5-1.010	07-Feb-19	PLT Shape	4246	13130	FL2-H (Log)	.	All	4246	.	62.51	
+PSC-PLT-5-1.010	07-Feb-19	PLT	4174	13130	FL2-H (Log)	.	All	.	100.00	63.81	
+PSC-PLT-5-1.010	07-Feb-19	PLT	4174	13130	FL2-H (Log)	.	M1	.	0.05	1762.36	
+PSC-PLT-5-1.010	07-Feb-19	No Gate	13130	.	.	.	UL	.	11.01	.	
+PSC-PLT-5-1.010	07-Feb-19	No Gate	13130	.	.	.	UR	.	88.99	.	
+PSC-PLT-5-1.010	07-Feb-19	No Gate	13130	.	.	.	LL	.	0.00	.	
+PSC-PLT-5-1.010	07-Feb-19	No Gate	13130	.	.	.	LR	.	0.00	.	
+PSC-PLT-5-1.010	07-Feb-19	PLT	4174	13130	FL1-H (Log)	.	All	.	100.00	166.50	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	
+PSC-PLT-5-1.010	.	BEADS	2515	.	FL1-H (Log)	FL2-H (Log)	.	.	.	.	

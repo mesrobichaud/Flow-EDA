@@ -1,0 +1,28 @@
+File Name	Acquisition Date	Gate	Gated Events	Total Events	X Parameter	Y Parameter	Label	% Gated	X Geo Mean	
+PSC-PLT-MR-2.001	14-Feb-19	PLT Shape	10118	20422	FL1-H (Log)	.	All	.	252.98	
+PSC-PLT-MR-2.001	14-Feb-19	PLT Shape	10118	20422	FL2-H (Log)	.	All	.	30.68	
+PSC-PLT-MR-2.001	14-Feb-19	PLT	10118	20422	FL2-H (Log)	.	All	100.00	30.68	
+PSC-PLT-MR-2.001	14-Feb-19	PLT	10118	20422	FL2-H (Log)	.	M1	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	.	.	.	UL	6.94	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	.	.	.	UR	93.02	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	.	.	.	LL	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	.	.	.	LR	0.04	.	
+PSC-PLT-MR-2.001	14-Feb-19	PLT	10118	20422	FL1-H (Log)	.	All	100.00	252.98	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	.	BEADS	1086	.	FL1-H (Log)	FL2-H (Log)	.	.	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	PLT EXPR	100.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	PLT	89.19	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	PLT Shape	89.19	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	BEADS	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	BEADS Shape	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	Not Beads	100.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	G7	2.61	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	LargeCell	0.00	.	
+PSC-PLT-MR-2.001	14-Feb-19	Not Beads	11334	20422	FSC-H (Log)	SSC-H (Log)	G9	0.18	.	
