@@ -5,6 +5,7 @@
 # Private Files 
 data/
 reports/
+.ipynb_checkpoints
 
 
 ### macOS ###
